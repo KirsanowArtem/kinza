@@ -1,5 +1,7 @@
 package Lesson14;
 
+import Metods.Do;
+
 import java.util.Scanner;
 
 public class Lesson14 {
